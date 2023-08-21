@@ -143,7 +143,7 @@
     height: 120px;
     opacity: 1;
     position: relative;
-    left: 15%;
+    left: 20%;
     top: 30px;
   }
   .u1 .n1 {
@@ -236,6 +236,7 @@
     position: absolute;
     left: 0%;
     font-size: 25px;
+    height: 85px;
   }
   .cont .two .fh6 {
     font-weight: bold;
@@ -251,7 +252,7 @@
     opacity: 1;
     position: absolute;
     left: 25%;
-    top: 80%;
+    top: 90%;
   }
   .cont .two .final .sh6 {
     font-weight: bold;
