@@ -152,17 +152,17 @@
   }
   .u1 .n1 a {
     font-weight: bold;
-    font-size: 30px;
+    font-size: 32px;
   }
   .u1 .inG1 {
     width: 100%;
-    height: 75px;
+    height: 85px;
     position: absolute;
     left: -10%;
     top: 70%;
   }
   .u1 .inG1 .input-group-text {
-    height: 75px;
+    height: 85px;
     font-size: 25px;
   }
   .cont {
@@ -230,7 +230,7 @@
     left: 20%;
   }
   .cont .two .inTwo .form-control {
-    height: 75px;
+    height: 85px;
   }
   .cont .two .inTwo span {
     position: absolute;
@@ -243,7 +243,7 @@
   }
   .cont .two .fh6 .a6 {
     color: black;
-    font-size: 30px;
+    font-size: 32px;
   }
   .cont .two .final {
     width: 50%;
@@ -258,12 +258,12 @@
     color: black;
     position: absolute;
     left: 0%;
-    font-size: 30px;
+    font-size: 32px;
   }
   .cont .two .final .btn {
     position: absolute;
     right: 0%;
     top: -20%;
-    font-size: 30px;
+    font-size: 32px;
   }
 }/*# sourceMappingURL=style.css.map */
